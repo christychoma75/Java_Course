@@ -15,7 +15,7 @@ public class Car {
         if(validModel.equals("is300 sport") || validModel.equals("toyota")){
             this.model = model;
         }else{
-            this.model = "Unknown";
+            this.model = "Unknown!";
         }
     }
 
